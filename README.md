@@ -1,11 +1,7 @@
 # Branch
 > 브랜치를 배워봅시다.
 
-<<<<<<< HEAD
-![이미지 추가](askjakjadfskj)
-=======
 ![브랜치이미지](README.assets/27327B4C556F7C853FC38F.jpg)
->>>>>>> image
 
 1. 브랜치 생성 : `git branch {브랜치이름}`
 2. 브랜치 확인 : `git branch`
